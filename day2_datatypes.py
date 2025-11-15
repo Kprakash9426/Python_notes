@@ -6,7 +6,7 @@
 students = 35
 new_students = 5
 total_students = students + new_students
-print("Total students:", total_students)
+print("Total students: ", total_students)
 
 # Example 2: Likes on a post
 likes = 120
@@ -39,6 +39,7 @@ print("Hello,", name)
 # Example 2: Combine text and numbers
 age = 16
 print(f"{name} is {age} years old.")
+
 
 # Example 3: Text operations
 quote = "Python is fun!"
