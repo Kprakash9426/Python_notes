@@ -25,7 +25,7 @@ print("Hello world"  # Missing closing parenthesis
 n = 10
 res = n / 0  """
 
-num=int(input("enter an number: "))
+# num=int(input("enter an number: "))
 try: # try: Runs the risky code that might cause an error.
     num=int(input("enter an number: "))
     res = 100 / num
