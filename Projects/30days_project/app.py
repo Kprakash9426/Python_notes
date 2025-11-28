@@ -15,4 +15,4 @@ alarm_time = input("Enter the alarm time (HH:MM): ")
 
 while time.strftime("%H:%M") != alarm_time:
       time.sleep(1) # “Wait for 1 second.,,So the program doesn’t check time thousands of times per second.”
-print("Time to wake up!")
+      print("Time to wake up!")
